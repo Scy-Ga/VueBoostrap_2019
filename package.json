@@ -1,5 +1,5 @@
 {
-  "name": "jedlik-venom-ts-frontend",
+  "name": "vueboostrap-2019",
   "description": "Frontend with Vue.js, BootstrapVue, Vuex, Node.js, Axios, and TypeScript",
   "version": "0.1.0",
   "scripts": {
@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint",
     "kill": "taskkill /im node.exe /F"
   },
-  "author": "Nits László",
+  "author": "Varga Gábor",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^12.7.11",

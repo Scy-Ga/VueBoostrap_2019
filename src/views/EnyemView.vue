@@ -1,6 +1,6 @@
 <template>
   <div class="enyem">
-    <h1>Ez ittt az enyém</h1>
+    <h1>Ez itt az enyém</h1>
   </div>
 </template>
 
